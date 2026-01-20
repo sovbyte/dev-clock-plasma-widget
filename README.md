@@ -14,7 +14,7 @@ A KDE Plasma 6 widget that displays the current time styled as code in a code ed
 
 ### Automatic Installation
 ```bash
-git clone https://github.com/sovbyte/devClock.git
+git clone https://github.com/sovbyte/dev-clock-plasma-widget
 cd devClock
 chmod +x install.sh
 ./install.sh
