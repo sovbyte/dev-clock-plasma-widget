@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+    <kcfgfile name=""/>
+
+    <group name="Appearance">
+        <entry name="showLineNumbers" type="Bool">
+            <default>true</default>
+        </entry>
+        <entry name="showDay" type="Bool">
+            <default>true</default>
+        </entry>
+        <entry name="showMonth" type="Bool">
+            <default>true</default>
+        </entry>
+        <entry name="showYear" type="Bool">
+            <default>true</default>
+        </entry>
+        <entry name="showDayOfWeek" type="Bool">
+            <default>true</default>
+        </entry>
+        <entry name="showHour" type="Bool">
+            <default>true</default>
+        </entry>
+        <entry name="showMinute" type="Bool">
+            <default>true</default>
+        </entry>
+        <entry name="showSecond" type="Bool">
+            <default>true</default>
+        </entry>
+        <entry name="showDayProgress" type="Bool">
+            <default>true</default>
+        </entry>
+    </group>
+
+    <group name="Colors">
+        <entry name="colorKeyword" type="String">
+            <default>#569cd6</default>
+        </entry>
+        <entry name="colorVariable" type="String">
+            <default>#9cdcfe</default>
+        </entry>
+        <entry name="colorNumber" type="String">
+            <default>#b5cea8</default>
+        </entry>
+        <entry name="colorString" type="String">
+            <default>#ce9178</default>
+        </entry>
+        <entry name="colorSymbol" type="String">
+            <default>#d4d4d4</default>
+        </entry>
+        <entry name="colorBackground" type="String">
+            <default>#1e1e1e</default>
+        </entry>
+        <entry name="colorBorder" type="String">
+            <default>#555555</default>
+        </entry>
+        <entry name="colorLineNumbers" type="String">
+            <default>#858585</default>
+        </entry>
+    </group>
+</kcfg>

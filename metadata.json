@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "sovbyte",
+                "Email": "sovbyte@gmail.com"
+            }
+        ],
+        "Category": "Date and Time",
+        "Description": "Clock widget styled as code editor",
+        "Icon": "clock",
+        "Id": "dev.clock",
+        "License": "MIT",
+        "Name": "Dev Clock",
+        "Version": "4.0",
+        "Website": "https://github.com/sovbyte"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
