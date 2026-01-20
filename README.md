@@ -78,10 +78,7 @@ MIT License - see [LICENSE](LICENSE) file
 ## Contributing
 
 Pull requests are welcome! For major changes, please open an issue first.
-```
 
-**9. Создайте `LICENSE`:**
-```
 MIT License
 
 Copyright (c) 2026 sovbyte
@@ -104,11 +101,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-**10. Создайте `.gitignore`:**
-```
-*.swp
-*.swo
-*~
-.DS_Store
-.vscode/
